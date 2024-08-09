@@ -1,5 +1,5 @@
 ---
-theme: minima
+theme: minimal
 title: Babel
 author: Robert Culling
 description: Blog documenting formalisation of mathematics in Lean.
