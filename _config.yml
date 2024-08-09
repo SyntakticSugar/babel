@@ -5,3 +5,9 @@ theme: minima
 title: Babel
 author: Robert Culling
 description: Formal Mathematics Blog
+
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      layout: "posts"
